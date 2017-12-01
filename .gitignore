@@ -1,0 +1,4 @@
+# Ignore any backup/version filesi
+*.s#?
+*.l#?
+*.b#?
